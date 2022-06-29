@@ -6,3 +6,9 @@ pip install pandas
 pip install pyautogui
 pip uninstall pillow
 pip install pillow
+
+##to Run
+py what.py
+
+###then enter csv file name kept in samefolder
+wait
